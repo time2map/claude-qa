@@ -46,7 +46,7 @@ It is analytical only: it never proposes code changes. If it spots a bug, it des
 ### Use it
 
 ```
-Make a QA checklist for feature/booking-cancel against develop, regression only, 30 minutes, in Russian
+Make a QA checklist for feature/booking-cancel against develop, regression only, 30 minutes, in English 
 ```
 
 Or call it by name: `/qa-checklist-from-diff`.
